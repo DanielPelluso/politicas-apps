@@ -12,6 +12,8 @@ Site estático com as políticas dos apps (GitHub Pages).
 
 - `index.html` — Política de Privacidade (Controle Pro)
 - `termos.html` — Termos de Uso (Controle Pro)
+- `futrank.html` — Política de Privacidade (FutRank)
+  → URL: `https://danielpelluso.github.io/politicas-apps/futrank.html`
 
 Para adicionar outro app depois: crie `app-nome.html` e `app-nome-termos.html` (ou subpasta), e adicione links em `index.html`.
 
